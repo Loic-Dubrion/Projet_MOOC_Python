@@ -1,0 +1,8 @@
+"Lecture du plan ..."
+"Taille des pierres ..."
+"Triage des grains de sables ..."
+"Mélange du mortier ..."
+"Montage des murs ..."
+"Séchage à la paille ..."
+"Syncope ..."
+"Reprise du séchage..."
